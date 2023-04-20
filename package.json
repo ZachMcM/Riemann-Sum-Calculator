@@ -1,0 +1,21 @@
+{
+  "name": "riemann-sum-calculator",
+  "version": "1.0.0",
+  "description": "A Javascript utility class for calculating riemann sums with right sum, left sum, midpoint sum, and trapezoid sum methods.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zach McMullen",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^11.8.0"
+  },
+  "repository": "github:ZachMcM/riemann-sum-calculator",
+  "homepage": ""
+}
