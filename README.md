@@ -11,7 +11,7 @@ Allows user to calculate the right, left, midpoint or trapezoid riemann sum for 
 
 ## Setup
 ```javascript
-import Riemann from "riemann-sum-calculator"
+import { Riemann } from "riemann-sum-calculator"
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Each method accepts an object with properties `expression: string`, the function
 
 ## Example
 ```javascript
-import Riemann from "riemann-sum-calculator"
+import { Riemann } from "riemann-sum-calculator"
 
 const problem = {
     expression: "sin(x)",
