@@ -10,12 +10,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "calculator",
+    "riemann-sum",
+    "mathematics",
+    "calculus",
+    "calculator-javascript"
+  ],
   "author": "Zach McMullen",
   "license": "MIT",
   "dependencies": {
     "mathjs": "^11.8.0"
   },
   "repository": "github:ZachMcM/riemann-sum-calculator",
-  "homepage": ""
+  "homepage": "https://github.com/ZachMcM/riemann-sum-calculator"
 }
