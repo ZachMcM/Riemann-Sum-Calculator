@@ -21,6 +21,7 @@ Each method accepts an object with properties `expression: string`, the function
 
 
 ## Example
+
 ```javascript
 import { Riemann } from "riemann-sum-calculator"
 
@@ -34,3 +35,7 @@ const problem = {
 console.log(Riemann.trapezoidSum(problem))
 //outputs 0.994
 ```
+
+## Sample
+
+[Integral Calculator](https://simple-integral-calculator.vercel.app/)
